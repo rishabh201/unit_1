@@ -76,6 +76,7 @@ Creates an empty file.
 ```bash
 touch file.txt
 ```
+<img width="720" height="27" alt="image" src="https://github.com/user-attachments/assets/79ab3e77-8999-4e28-a106-c9c723327186" />
 
 ---
 
