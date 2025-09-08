@@ -246,6 +246,8 @@ affects access rights.
 
 =>chown
 changes the ownership of a file or directory.
+
 decides which user or group owns the file.
+
 chown affects file ownership.
 
