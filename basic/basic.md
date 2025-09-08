@@ -114,6 +114,7 @@ mv file.txt ~/Documents/     # Move file
 rm file.txt          # Delete file
 rm -r folder_name    # Delete folder (recursively)
 ```
+<img width="695" height="22" alt="image" src="https://github.com/user-attachments/assets/d8013d65-efbf-429d-ac0f-d7832ca28542" />
 
 ⚠️ **Be careful!** There is no undo.
 
