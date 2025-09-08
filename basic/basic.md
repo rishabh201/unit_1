@@ -145,6 +145,8 @@ nano file.txt
 * `CTRL + X` to exit
 
 ---
+<img width="439" height="16" alt="image" src="https://github.com/user-attachments/assets/e0cee4d5-adcc-4783-a48c-a67c81fafe07" />
+<img width="813" height="535" alt="image" src="https://github.com/user-attachments/assets/5502b223-c3fe-4777-a66b-dbf2b025e47a" />
 
 ### `clear` – Clears the Terminal
 
