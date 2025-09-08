@@ -85,6 +85,7 @@ touch file.txt
 ```bash
 cp source.txt destination.txt
 ```
+<img width="824" height="26" alt="image" src="https://github.com/user-attachments/assets/5437d523-0037-4237-886b-4f3a45353bb5" />
 
 * Copy folder:
 
