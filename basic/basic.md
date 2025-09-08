@@ -65,6 +65,7 @@ Creates a new folder.
 ```bash
 mkdir new_folder
 ```
+<img width="825" height="31" alt="image" src="https://github.com/user-attachments/assets/334e6612-f55a-4da9-a07e-d717a077f350" />
 
 ---
 
