@@ -11,7 +11,6 @@ Shows the current location in the filesystem.
 ```bash
 pwd
 ```
-<img width="343" height="43" alt="image" src="https://github.com/user-attachments/assets/da09b07d-82eb-4771-a807-59a7731bd1d2" />
 
 
 📌 Output example:
@@ -19,7 +18,7 @@ pwd
 ```
 /Users/yourname/projects
 ```
-
+<img width="343" height="43" alt="image" src="https://github.com/user-attachments/assets/da09b07d-82eb-4771-a807-59a7731bd1d2" />
 ---
 
 ### `ls` – List Directory Contents
