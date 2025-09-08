@@ -144,8 +144,6 @@ nano file.txt
 * `CTRL + O` to save
 * `CTRL + X` to exit
 
-
-![alt text](image-3.png)
 ---
 
 ### `clear` – Clears the Terminal
