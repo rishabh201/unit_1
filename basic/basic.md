@@ -241,13 +241,13 @@ mkdir test && cd test && touch hello.txt
 // What is differece b\w chmod and chown?
 =>chmod     
 
-changes permissions of a file or directory.                                     
-decides whether a user can read, write, or execute a file.                            
-affects access rights.                                                                 
+  changes permissions of a file or directory.                                     
+  decides whether a user can read, write, or execute a file.                            
+  affects access rights.                                                                 
 
 =>chown
 
-changes the ownership of a file or directory.
-decides which user or group owns the file.
-chown affects file ownership.
+  changes the ownership of a file or directory.
+  decides which user or group owns the file.
+  chown affects file ownership.
 
