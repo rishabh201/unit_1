@@ -92,6 +92,7 @@ cp source.txt destination.txt
 ```bash
 cp -r folder1 folder2
 ```
+<img width="824" height="55" alt="image" src="https://github.com/user-attachments/assets/148098c8-3891-4da8-b7e9-bc0d74a5a103" />
 
 ---
 
