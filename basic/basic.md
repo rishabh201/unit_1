@@ -11,14 +11,14 @@ Shows the current location in the filesystem.
 ```bash
 pwd
 ```
-![alt text](image.png)
+
 
 📌 Output example:
 
 ```
 /Users/yourname/projects
 ```
-
+<img width="343" height="43" alt="image" src="https://github.com/user-attachments/assets/da09b07d-82eb-4771-a807-59a7731bd1d2" />
 ---
 
 ### `ls` – List Directory Contents
@@ -65,6 +65,7 @@ Creates a new folder.
 ```bash
 mkdir new_folder
 ```
+<img width="825" height="31" alt="image" src="https://github.com/user-attachments/assets/334e6612-f55a-4da9-a07e-d717a077f350" />
 
 ---
 
@@ -75,6 +76,7 @@ Creates an empty file.
 ```bash
 touch file.txt
 ```
+<img width="720" height="27" alt="image" src="https://github.com/user-attachments/assets/79ab3e77-8999-4e28-a106-c9c723327186" />
 
 ---
 
@@ -83,12 +85,14 @@ touch file.txt
 ```bash
 cp source.txt destination.txt
 ```
+<img width="824" height="26" alt="image" src="https://github.com/user-attachments/assets/5437d523-0037-4237-886b-4f3a45353bb5" />
 
 * Copy folder:
 
 ```bash
 cp -r folder1 folder2
 ```
+<img width="824" height="55" alt="image" src="https://github.com/user-attachments/assets/148098c8-3891-4da8-b7e9-bc0d74a5a103" />
 
 ---
 
@@ -110,6 +114,7 @@ mv file.txt ~/Documents/     # Move file
 rm file.txt          # Delete file
 rm -r folder_name    # Delete folder (recursively)
 ```
+<img width="695" height="22" alt="image" src="https://github.com/user-attachments/assets/d8013d65-efbf-429d-ac0f-d7832ca28542" />
 
 ⚠️ **Be careful!** There is no undo.
 
@@ -139,9 +144,9 @@ nano file.txt
 * `CTRL + O` to save
 * `CTRL + X` to exit
 
-
-![alt text](image-3.png)
 ---
+<img width="439" height="16" alt="image" src="https://github.com/user-attachments/assets/e0cee4d5-adcc-4783-a48c-a67c81fafe07" />
+<img width="813" height="535" alt="image" src="https://github.com/user-attachments/assets/5502b223-c3fe-4777-a66b-dbf2b025e47a" />
 
 ### `clear` – Clears the Terminal
 
@@ -232,3 +237,17 @@ mkdir test && cd test && touch hello.txt
 * **Run regardless of success**: `;`
 
 ---
+
+// What is differece b\w chmod and chown?
+=>chmod     
+
+  changes permissions of a file or directory.                                     
+  decides whether a user can read, write, or execute a file.                            
+  affects access rights.                                                                 
+
+=>chown
+
+  changes the ownership of a file or directory.
+  decides which user or group owns the file.
+  chown affects file ownership.
+

@@ -250,3 +250,27 @@ Run:
 
 ---
 
+## 📚 Summary
+
+| 🔑 Concept   | 📜 Example         |
+| ------------ | ------------------ |
+| Script       | `./hello.sh`       |
+| Variables    | `name="Mudit"`     |
+| Input        | `read var`         |
+| Conditionals | `if [ $a -gt 5 ]`  |
+| Loops        | `for i in {1..5}`  |
+| Functions    | `greet() { ... }`  |
+| Args         | `$0 $1 $2 $@ $#`   |
+| Arrays       | `fruits=("a" "b")` |
+| Backup       | `tar -czf`         |
+
+---
+
+💡 **Pro Tip:** Shell scripting = 💪 Power + ⚡ Automation + 🚀 Productivity.
+Keep practicing by writing **small utility scripts** to master it!
+
+```
+
+```
+![Screenshot of A3](A3.png)
+![Screenshot of A3](A3.png)
