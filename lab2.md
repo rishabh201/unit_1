@@ -1,5 +1,6 @@
-
 ⭐Assignment 2 – Script Execution & Explanation
+
+
 <img width="334" height="133" alt="Screenshot 2025-09-09 122409" src="https://github.com/user-attachments/assets/7888998b-44ae-4282-906d-8a82941d7abe" />
 
 
