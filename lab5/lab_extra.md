@@ -36,7 +36,7 @@ Improves efficiency: Teams can focus on coding and problem-solving instead of ma
 
 Supports scalability: Automated processes can handle multiple environments or servers easily.
 
-## wuestion - 2
+## question - 2
 
 mkdir is used to create directories.
 
