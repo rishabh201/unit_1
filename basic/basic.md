@@ -1,3 +1,12 @@
+🌟Assignment 1 – Unit-1: Linux Basics
+
+
+
+Name-Rishabh negi
+
+sap id-590025385
+
+
 Here's a **detailed tutorial on basic terminal commands** that work on **Linux, macOS, and Git Bash (Windows)**. These commands are essential for navigating and managing files from the terminal, especially for coding and version control (e.g., Git, VS Code, etc.).
 
 ---
