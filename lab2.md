@@ -4,7 +4,7 @@
 
 
 
-## Script 1: fruits.sh
+## Script 1: first.sh
 
 ## Purpose:
 
