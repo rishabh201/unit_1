@@ -9,7 +9,7 @@ sap id-590025385
 > Enhance and customize a script by adding user input and validation.
 
 ## 🚦 **Tasks Overview**
-- Select a script from `Scripts/` (e.g., `print_numbers.sh`)
+- Select a script from `Scripts/` 
 - Modify it so the user provides start, end, and step values as input
 - Validate inputs (e.g., step must be positive)
 - Save as `enhanced_numbers.sh`
@@ -40,13 +40,13 @@ Original: No validation at all. The loop just runs as written.
 
 New: Validates the step value to ensure it’s positive. If the user enters 0 or a negative number, the script shows an error and stops.
 
-## question - Example run with different inputs.
+## ▶️ Question - Example run with different inputs.
 
 ![alt text](<Screenshot 2025-09-09 165413.png>)
 
-## Extra_question
+## ❓ **Extra Questions**
 
-1. Difference between $1, $@, and $# in Bash
+### 1️⃣ What is the difference between `$1`, `$@`, and `$#` in bash?
 
 $1 → Refers to the first argument passed to the script.
 
@@ -54,7 +54,7 @@ $@ → Represents all arguments passed to the script as separate words.
 
 $# → Gives the total number of arguments passed to the script.
 
-2. What does exit 1 mean in a script
+### 2️⃣ What does `exit 1` mean in a script?
 
 exit stops the script immediately.
 The number after exit is the exit status ,
