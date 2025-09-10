@@ -5,6 +5,10 @@ Name-Rishabh negi
 
 sap id-590025385
 
+## 🎯 **Objective**
+> Enhance and customize a script by adding user input and validation.
+
+
 ![alt text](image-2.png)
 
 ![alt text](<Screenshot 2025-09-09 165319.png>)
