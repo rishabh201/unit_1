@@ -59,11 +59,11 @@ a. Prints a message showing which file was backed up and its new name.
 
 1️⃣ What is the difference between `cp`, `mv`, and `rsync`?
 
-cp: Copies files or directories; original remains unchanged.
+-**`cp`**: Copies files or directories.
 
-mv: Moves or renames files or directories; original is removed from old location.
+- **`mv`**: Moves or renames files or directories; original is removed from old location.
 
-rsync: Synchronizes files/folders efficiently; preserves permissions, timestamps, and skips unchanged files; ideal for backups.
+- **`rsync`**:: Synchronizes files/folders efficiently; preserves permissions, timestamps, and skips unchanged files; ideal for backups.
 
 ### 2️⃣ How can you schedule scripts to run automatically?
 
