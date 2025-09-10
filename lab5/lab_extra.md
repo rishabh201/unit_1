@@ -20,9 +20,10 @@ sap id-590025385
 
 The starter_kit.sh script is designed to quickly set up a basic project structure.  
 It creates a project/ folder with three subdirectories:  
-- scripts/ → for code and automation scripts  
-- docs/ → for documentation files  
-- data/ → for datasets or raw inputs  
+
+   - `scripts/` → for code and automation scripts  
+   - `docs/` → for documentation files  
+   - `data/` → for datasets or raw inputs  
 
 Each folder, including the main project/ folder, gets a placeholder README.md file to explain its purpose.  
 This ensures consistency and helps team members navigate the project easily.  
