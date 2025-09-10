@@ -1,4 +1,6 @@
-🌟Assignment 1 – Unit-1: Linux Basics
+# 📝 **Assignment 1 – Unit-1: Linux Basics**
+
+---
 
 
 
