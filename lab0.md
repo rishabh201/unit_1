@@ -2,10 +2,6 @@
 
 ---
 
-<div align="center">
-
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
-</div>
 
 ---
 
@@ -130,4 +126,8 @@
 You have successfully installed **Ubuntu Linux** on VirtualBox!  
 Happy exploring! 🚀🐧
 
+</div>
+<div align="center">
+
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 </div>
