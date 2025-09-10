@@ -19,7 +19,7 @@ sap id-590025385
 Demonstrates how to create an array in Bash.
 Shows how to access individual elements and print all elements.
 
-## Line-by-Line Explanation:
+### 📝 **Line-by-Line Explanation**
 
 #!/bin/bash → Indicates this is a Bash script.
 fruits=("apple" "banana" "cherry") → Creates an array named fruits with three elements.
