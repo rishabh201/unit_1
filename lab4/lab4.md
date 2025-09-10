@@ -21,29 +21,29 @@ sap id-590025385
 ## 📝 **How the Script Works**
 mkdir -p backup
 
-1. Creates a folder named backup if it doesn’t already exist.
+1️⃣. Creates a folder named backup if it doesn’t already exist.
 
-2. timestamp=$(date +"%Y%m%d_%H%M%S")
+2️⃣. timestamp=$(date +"%Y%m%d_%H%M%S")
 
 a. Gets the current date and time in the format YYYYMMDD_HHMMSS.
 
 b. This timestamp is used to uniquely name the backup files.
 
-3. for file in *.txt; do … done
+3️⃣. for file in *.txt; do … done
 
 a. Loops through every .txt file in the current directory.
 
-4. if [ -f "$file" ]; then
+4️⃣. if [ -f "$file" ]; then
 
 a. Checks if the item is a regular file (not a folder).
 
-5. cp "$file" "backup/${file%.txt}_$timestamp.txt"
+5️⃣. cp "$file" "backup/${file%.txt}_$timestamp.txt"
 
 a. Copies the file into the backup folder.
 
 b. ${file%.txt} removes the .txt extension so the timestamp can be added before it.
 
-6. echo "Backed up: $file → backup/${file%.txt}_$timestamp.txt"
+6️⃣. echo "Backed up: $file → backup/${file%.txt}_$timestamp.txt"
 
 a. Prints a message showing which file was backed up and its new name.
 
@@ -57,7 +57,7 @@ a. Prints a message showing which file was backed up and its new name.
 
 ## ❓ **Extra Questions**
 
-1️⃣ What is the difference between `cp`, `mv`, and `rsync`?
+### 1️⃣ What is the difference between `cp`, `mv`, and `rsync`?
 
 -**`cp`**: Copies files or directories.
 
