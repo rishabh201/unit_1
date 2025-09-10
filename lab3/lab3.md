@@ -8,7 +8,14 @@ sap id-590025385
 ## 🎯 **Objective**
 > Enhance and customize a script by adding user input and validation.
 
+## 🚦 **Tasks Overview**
+- Select a script from `Scripts/` (e.g., `print_numbers.sh`)
+- Modify it so the user provides start, end, and step values as input
+- Validate inputs (e.g., step must be positive)
+- Save as `enhanced_numbers.sh`
+- Explain original vs. new behavior and show example
 
+- 
 ![alt text](image-2.png)
 
 ![alt text](<Screenshot 2025-09-09 165319.png>)
