@@ -40,20 +40,20 @@ At the end, the script displays “Starter Kit Ready!” to confirm that the set
 
 ###  1️⃣ Why is automation useful in DevOps?
 
-Saves time: Repetitive tasks like setting up folders, deploying code are done automatically.
+- **Saves time:** Repetitive tasks like setting up folders, deploying code are done automatically.
 
-Reduces errors: Automation ensures consistency and avoids human mistakes.
+- **Reduces errors:** Automation ensures consistency and avoids human mistakes.
 
-Improves efficiency: Teams can focus on coding and problem-solving instead of manual setup.
+- **Improves efficiency:** Teams can focus on coding and problem-solving instead of manual setup.
 
-Supports scalability: Automated processes can handle multiple environments or servers easily.
+- **Supports scalability:** Automated processes can handle multiple environments or servers easily.
 
-### 1️2️⃣ What does `mkdir -p` do?###
+### 2️⃣ What does `mkdir -p` do?###
 
-mkdir is used to create directories.
+- mkdir is used to create directories.
 
-The -p option means parents
+- The -p option means parents
 
-It will create parent directories automatically if they don’t exist.
+- It will create parent directories automatically if they don’t exist.
 
-It doesn’t throw an error if the directory already exists.
+- It doesn’t throw an error if the directory already exists.
