@@ -62,7 +62,7 @@ echo "My name is $name and I am $age years old." → Prints a sentence using the
 ![alt text](<Screenshot 2025-08-23 115720.png>)
 
 
-## Extra_Question 
+## ❓ **Extra Questions**
 
 1. Purpose of #!/bin/bash at the top of a script
 => This line is called a shebang.
