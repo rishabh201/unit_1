@@ -20,8 +20,7 @@ sap id-590025385
 
 ![alt text](<Screenshot 2025-09-09 165319.png>)
 
-## question - Original vs. new behavior.
-
+## **🔄question -Original vs. Enhanced Behavior**
 1. Input Handling
 
 Original: Numbers 1 2 3 4 5 are fixed inside the script. User cannot change them without editing the code.
