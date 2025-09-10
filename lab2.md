@@ -1,6 +1,6 @@
 # 📝 **Assignment 2 – Script Execution & Explanation**
 
-Name-Rishabh negi
+Name-Rishabh negi                                                                                                                                                   
 sap id-590025385
 
 
