@@ -1,14 +1,21 @@
-⚡Lab 5 – Starter Kit & Automation
+# 🚀 **Lab 5 – Starter Kit & Automation**
+
+---
+
+
 
 Name-Rishabh negi
 
 sap id-590025385
 
 
+## 🎯 **Objective**
+> Automatically build a clean, organized starter project environment using a shell script.
+
 ![alt text](image.png)
 
 
-## PURPOSE OF THIS SCRIPT
+## 📝 PURPOSE OF THIS SCRIPT
 
 
 The starter_kit.sh script is designed to quickly set up a basic project structure.  
@@ -22,15 +29,15 @@ This ensures consistency and helps team members navigate the project easily.
 
 At the end, the script displays “Starter Kit Ready!” to confirm that the setup was completed successfully.  
 
-## example run
+## ▶️ **Example Run**
 
 ![alt text](<Screenshot 2025-09-09 165020-1.png>)
 
 ![alt text](<Screenshot 2025-09-09 165002.png>)
 
-## extra question - 
+## ❓ **Extra Questions**
 
-## question - 1 
+###  1️⃣ Why is automation useful in DevOps?
 
 Saves time: Repetitive tasks like setting up folders, deploying code are done automatically.
 
@@ -40,7 +47,7 @@ Improves efficiency: Teams can focus on coding and problem-solving instead of ma
 
 Supports scalability: Automated processes can handle multiple environments or servers easily.
 
-## question - 2
+### 1️2️⃣ What does `mkdir -p` do?###
 
 mkdir is used to create directories.
 
