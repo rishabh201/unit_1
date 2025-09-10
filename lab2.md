@@ -1,4 +1,4 @@
-⭐Assignment 2 – Script Execution & Explanation
+# 📝 **Assignment 2 – Script Execution & Explanation**
 
 Name-Rishabh negi
 sap id-590025385
