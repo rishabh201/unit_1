@@ -21,7 +21,7 @@
 1. 🌐 Go to the [VirtualBox Website](https://www.virtualbox.org/)
 2. 💻 Select your operating system and download the installer
 
-![VirtualBox Download](../images/2025-09-10-14-51-52.png)
+<img width="1261" height="585" alt="image" src="https://github.com/user-attachments/assets/183189af-f9ec-4640-a67d-6ad688cb5b35" />
 
 ---
 
@@ -29,31 +29,33 @@
 
 ### 1️⃣ **Start the Installer**
 
-![VirtualBox Start](../images/2025-09-10-14-49-41.png)
+<img width="890" height="677" alt="image" src="https://github.com/user-attachments/assets/2ee5ebf0-8299-4677-af89-df5143ad4b1c" />
 
 ---
 
 ### 2️⃣ **Select Installation Location**
 
-![Installation Location](../images/2025-09-10-14-53-03.png)
+<img width="907" height="700" alt="image" src="https://github.com/user-attachments/assets/bcb9790a-56e7-41bc-839b-33c93cd74742" />
+
 
 ---
 
 ### 3️⃣ **Ready to Install**
 
-![Ready to Install](../images/2025-09-10-14-58-17.png)
+<img width="865" height="701" alt="image" src="https://github.com/user-attachments/assets/db7d7090-a324-4b63-80e9-7b75b10ee475" />
 
 ---
 
 ### 4️⃣ **Installation Complete**
 
-![Installation Complete](../images/2025-09-10-14-58-53.png)
+<img width="896" height="683" alt="image" src="https://github.com/user-attachments/assets/02fb064a-faf9-4197-acc6-f7f3412d525c" />
+
 
 ---
 
 ### 5️⃣ **Open VirtualBox**
 
-![Opening VirtualBox](../images/2025-09-10-14-59-16.png)
+<img width="903" height="511" alt="image" src="https://github.com/user-attachments/assets/4e383353-c38e-4131-b377-be552a0456f1" />
 
 ---
 
@@ -70,7 +72,7 @@
 
 ### 2️⃣ **Select RAM Amount**
 
-![RAM Selection](../images/2025-09-10-16-09-34.png)
+<img width="682" height="585" alt="image" src="https://github.com/user-attachments/assets/e64df631-607c-4861-921c-a394692104d7" />
 
 ---
 
@@ -79,7 +81,8 @@
 - Choose **Create a virtual hard drive now**
 - Select the desired hard drive size
 
-![Hard Disk Setting](../images/2025-09-10-16-14-05.png)
+<img width="1197" height="730" alt="image" src="https://github.com/user-attachments/assets/8a7e1a50-77de-4d7b-923a-a05abdc3158b" />
+
 
 ---
 
@@ -88,7 +91,7 @@
 - Click **Start**
 - Select your downloaded Linux ISO file
 
-![Choose ISO](../images/2025-09-10-16-16-37.png)
+<img width="902" height="497" alt="image" src="https://github.com/user-attachments/assets/0fe4f1b5-71c0-41ae-8e68-cec0fb9613b2" />
 
 ---
 
@@ -96,7 +99,8 @@
 
 - Click **Install Ubuntu** (or your chosen distro)
 
-![Install Ubuntu](../images/2025-09-10-18-29-40.png)
+<img width="1190" height="737" alt="image" src="https://github.com/user-attachments/assets/e8f51238-561e-4f24-bab7-4c291c5d11db" />
+
 
 ---
 
@@ -117,6 +121,7 @@
 </details>
 
 ---
+<img width="1848" height="1077" alt="Screenshot 2025-09-10 214530" src="https://github.com/user-attachments/assets/168f84da-4ecf-4c13-8da9-2089fcb60891" />
 
 <div align="center">
 
