@@ -1,15 +1,24 @@
-🌩️Assignment 4 – File & Backup Automation
+# 📝 **Assignment 4 – File & Backup Automation**
+
+---
+
 
 
 Name-Rishabh negi
 
 sap id-590025385
 
+
+## 🎯 **Objective**
+> Automate file management by backing up `.txt` files with timestamps.
+
+
+
 ![alt text](image.png)
 
 
 
-## HOW THE SCRIPT WORKS
+## 📝 **How the Script Works**
 mkdir -p backup
 
 1. Creates a folder named backup if it doesn’t already exist.
@@ -38,7 +47,7 @@ b. ${file%.txt} removes the .txt extension so the timestamp can be added before 
 
 a. Prints a message showing which file was backed up and its new name.
 
-## example run
+## ▶️ **Example Run**
 
 
 ![alt text](<Screenshot 2025-09-09 164321.png>)
@@ -46,9 +55,9 @@ a. Prints a message showing which file was backed up and its new name.
 
 
 
-## extra question 
+## ❓ **Extra Questions**
 
-1. Difference between cp, mv, and rsync
+1️⃣ What is the difference between `cp`, `mv`, and `rsync`?
 
 cp: Copies files or directories; original remains unchanged.
 
@@ -56,7 +65,7 @@ mv: Moves or renames files or directories; original is removed from old location
 
 rsync: Synchronizes files/folders efficiently; preserves permissions, timestamps, and skips unchanged files; ideal for backups.
 
-2. How to schedule scripts automatically
+### 2️⃣ How can you schedule scripts to run automatically?
 
 Use cron jobs to run scripts at specified times.
 Open crontab: crontab -e
